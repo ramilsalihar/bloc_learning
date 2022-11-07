@@ -1,4 +1,4 @@
-# bloc
+# bloc_learning
 
 Learning BLOC State Management in Flutter
 
